@@ -5,10 +5,6 @@
 [![Build Status](https://travis-ci.org/yjcn/mentohust_NWAFU.svg?branch=master)](https://travis-ci.org/yjcn/mentohust_NWAFU)
 
 主要修改了mystate.c 与checkV4.c两个文件内的相关内容
-## 目前存在问题
-1、心跳存在问题，每隔7分钟左右会掉线，多次掉线会被服务器拉黑
-
-~~2、服务器记录不到正确IP，在系统中IP为0.0.0.0 即使客户端有了正确IP也检测不到~~(已修复?)
 
 原来项目地址https://github.com/hyrathb/mentohust  修改教程 http://codingstory.com.cn/mo-gai-mentohust-v4ban-ben-de-xin-de/
 

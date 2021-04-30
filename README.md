@@ -65,6 +65,3 @@ sudo ln -s libpcap.so.0.x.y /usr/lib/libpcap.so.0.x
 3、一切使用后果由用户自己承担。
 4、本程序不提供任何服务及保障，编写及维护纯属个人爱好，随时可能被终止。
 5、使用本程序者，即表示同意该声明。谢谢合作。
-
-源码可在项目主页获取：http://mentohust.googlecode.com/
-联系作者：在http://mentohust.googlecode.com/留言或Email：mentohust@ehust.co.cc
